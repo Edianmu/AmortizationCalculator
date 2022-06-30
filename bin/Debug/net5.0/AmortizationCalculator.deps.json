@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AmortizationCalculator/1.0.0": {
+        "dependencies": {
+          "DataTablePrettyPrinter": "0.2.0"
+        },
+        "runtime": {
+          "AmortizationCalculator.dll": {}
+        }
+      },
+      "DataTablePrettyPrinter/0.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/DataTablePrettyPrinter.dll": {
+            "assemblyVersion": "0.2.0.0",
+            "fileVersion": "0.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmortizationCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataTablePrettyPrinter/0.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qX1qGvdOu132Ae7gQGyFdri74M/ib1gtCn8bzrpM3Q3+aXFHM/ufWWnk534HdUVEw6+2HY2b7vn8pOqKd9CmpA==",
+      "path": "datatableprettyprinter/0.2.0",
+      "hashPath": "datatableprettyprinter.0.2.0.nupkg.sha512"
+    }
+  }
+}

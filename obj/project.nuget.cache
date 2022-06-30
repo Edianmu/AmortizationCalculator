@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iD/ALVoflwM+J7un0AuRlzHAUa6/r7v9Fa0x7TLyd2sZtarjEKB9/WEfyXeFxGRWDnUPwjortR/14QCcoEtlnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edmunoz\\Documents\\Proyectos VS\\AmortizationCalculator\\AmortizationCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edmunoz\\.nuget\\packages\\datatableprettyprinter\\0.2.0\\datatableprettyprinter.0.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
